@@ -15,6 +15,8 @@ O código ajusta a frequência e o Duty Cycle dos LEDs vermelho, verde e azul de
 - **LED Azul**: Controlado de forma independente. Duty Cycle inicia em 5% e é atualizado a cada 2 segundos em incrementos de 5%.
 - Quando atinge o valor máximo, retorna a 5% e continua incrementando.
 
+  ## Teste de SOS ##
+
 ## Requisitos
 
 - Raspberry Pi Pico
